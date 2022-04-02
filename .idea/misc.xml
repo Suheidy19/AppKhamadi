@@ -3,7 +3,38 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/drawable-v24/side_nav_bar_02.xml" value="0.202" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/drawable/border_botton.xml" value="0.2075" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.123" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/drawable/side_nav_bar.xml" value="0.203" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/activity_album.xml" value="0.2" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/activity_avisos.xml" value="0.2" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/activity_centro.xml" value="0.25" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/activity_comidas.xml" value="0.12" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/activity_configuracion.xml" value="0.1802536231884058" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/activity_contacto.xml" value="0.2" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/activity_inicio.xml" value="0.22" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/activity_menu.xml" value="0.22" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/activity_registro.xml" value="0.22" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/ajuste_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/app_bar_menu.xml" value="0.18" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/content_menu.xml" value="0.22" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/fragment_aviso.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/fragment_centro.xml" value="0.2" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/fragment_config.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/fragment_configuracion.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/fragment_contacto.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/fragment_galeria2.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/fragment_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/fragment_slideshow.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/layout/nav_header_menu.xml" value="0.17572463768115942" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/Suhei/AndroidStudioProjects/Appguarderia/app/src/main/res/menu/menu.xml" value="0.18489583333333334" />
       </map>
     </option>
   </component>

@@ -4,11 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/side_nav_bar_02"
     tools:context=".MainActivity">
 
     <TextView
+        android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:fontFamily="serif"
+
         android:text="Bienvenido"
         android:textSize="40sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -20,9 +24,15 @@
         android:id="@+id/button"
         android:layout_width="160dp"
         android:layout_height="53dp"
-        android:background="#3F51B5"
+        android:background="@drawable/border_botton"
+        android:backgroundTint="#6E93EA"
+        android:onClick="login"
         android:text="Iniciar sesión"
-        tools:layout_editor_absoluteX="125dp"
-        tools:layout_editor_absoluteY="474dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.728" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

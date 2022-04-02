@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">Appguarderia</string>
+    <string name="app_name">Guarderia Khamadi</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Guarderia Khamadi</string>
+    <string name="nav_header_subtitle">Nombre de Usuario</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu"></string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Avisos</string>
+    <string name="menu_slideshow">Album</string>
+
+
+    <string name="menu_semanal">menu semanal</string>
+    <string name="menu_mi_centro">Mi centro</string>
+    <string name="menu_contactanos">Contactanos</string>
+    <string name="menu_configuracion">Configuración</string>
+    <string name="menu_salir">Salir</string>
+
 </resources>
