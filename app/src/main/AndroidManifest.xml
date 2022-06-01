@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Appguarderia">
         <activity
+            android:name=".SingInActivity"
+            android:exported="false"
+            android:label="@string/title_activity_sing_in"
+            android:theme="@style/Theme.Appguarderia" />
+        <activity
             android:name=".menu"
             android:exported="false"
             android:label="@string/title_activity_menu"

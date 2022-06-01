@@ -18,5 +18,6 @@
     <string name="menu_contactanos">Contactanos</string>
     <string name="menu_configuracion">Configuración</string>
     <string name="menu_salir">Salir</string>
+    <string name="title_activity_sing_in">SingInActivity</string>
 
 </resources>
